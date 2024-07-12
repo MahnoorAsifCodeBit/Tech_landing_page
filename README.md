@@ -7,10 +7,9 @@ Welcome to the Naxly IT Solution landing page repository. This project aims to s
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
@@ -38,25 +37,6 @@ To get a local copy up and running, follow these steps:
     ```bash
     cd Tech_landing_page
     ```
-
-3. **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-4. **Run the development server:**
-    ```bash
-    npm start
-    ```
-
-The landing page should now be running on `http://localhost:3000`.
-
-## Usage
-
-- **Home Page:** Showcases the core values and mission of Naxly.
-- **Services Section:** Highlights various IT solutions provided by Naxly.
-- **About Us:** Detailed information about the company and team.
-- **Contact Form:** Enables potential clients to get in touch with us easily.
 
 ## Contributing
 
@@ -108,4 +88,5 @@ We welcome contributions to enhance the Naxly IT Solution landing page. To contr
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+Welcome to contribute to my repository! Your contributions are highly appreciated. 🎉
 
